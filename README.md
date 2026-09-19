@@ -224,7 +224,11 @@ I'm currently working toward building more complete applications as I continue m
 <!-- This section can be generated automatically using the GitHub Action:
      https://github.com/Platane/snk -->
 
-<img src="https://raw.githubusercontent.com/AbbieCodes7/AbbieCodes7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbbieCodes7/AbbieCodes7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbbieCodes7/AbbieCodes7/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbbieCodes7/AbbieCodes7/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
