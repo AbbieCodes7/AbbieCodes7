@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./header-light.png">
+  <img alt="Hi, I'm Abbie!" src="./header-light.png">
+</picture>
+
+<br>
 <div align="center">
 
 # 🌸 Hey there, I'm Abbie!
@@ -202,7 +209,7 @@ I'm currently working toward building more complete applications as I continue m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbbieCodes7&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=AbbieCodes7&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" />
 
 </div>
 
