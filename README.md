@@ -274,15 +274,15 @@ I hope to eventually work across **industry, research, education, and technology
 </a>
 
 <a href="https://x.com/Abbie_404">
-<img src="https://img.shields.io/badge/X-@abbie_404-FF69B4?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-@abbie_404-FF69B4?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/abbie_codes_/">
 <img src="https://img.shields.io/badge/Instagram-@abbie__codes__-EF93C4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.tiktok.com/@abbie_codes">
-<img src="https://img.shields.io/badge/TikTok-@abbie__codes-F8BBD0?style=for-the-badge&logo=tiktok&logoColor=black" />
+<a href="https://www.threads.com/@abbie_codes_">
+<img src="https://img.shields.io/badge/Threads-@abbie__codes-F8BBD0?style=for-the-badge&logo=threads&logoColor=black" />
 </a>
 
 </div>
