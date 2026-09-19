@@ -187,19 +187,19 @@ I'm currently working toward building more complete applications as I continue m
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <br><br>
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbbieCodes7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" />
-
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbieCodes7&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AbbieCodes7&theme=dark&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0" />
+<img src="https://streak-stats.demolab.com?user=AbbieCodes7&theme=dark&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0" alt="GitHub Streak" />
 
 </div>
 
