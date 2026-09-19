@@ -81,7 +81,7 @@ My long-term goal is to pursue graduate studies in Computer Science, contribute 
 
 ### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,android,gradle" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,gradle" />
 
 ### 💻 Programming & Development
 
